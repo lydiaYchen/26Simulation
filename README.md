@@ -1,4 +1,4 @@
-# Simulation245all
+# Simulation 26 Fall
 
 This is the course repoisitory for the simulation course at Data Science Bachelor Program of University of Neuchatel.
 
@@ -39,7 +39,7 @@ There are 6 mandatory labs run by Abel Malan. They are important building blocks
 ### Project
 The project is about building a queueing simulator to predict and analyze the key performance metrics, e.g., the average waiting time and the average response times.
 
-The detailed description of the project will be published after week 4 here and the due date of the project is December 19. Students need to submit a report and do a presentation as well.
+The detailed description of the project will be published after week 4 here and the due date of the project is December 17. Students need to submit a report and do a presentation as well.
 
 This accounts for 70 % of the final grade.
 
@@ -52,17 +52,17 @@ There will be two in-class quizzs, 30 minutes long. Each of this will account fo
 
 **Week**|**Lecture Topic**|**Instructor**|**Additional note**
 :-----|:-----|:-----|:-----
-Week 1 (Sep 16) | Introduction and Common Discrete Random Variables | Lydia | ch 3
-Week 2 (Sep 23 | Expectation, Variance, and Higher Moments | Lydia| ch 4/5
-Week 3 (Sep 30) | Lab on derivation | Abel
-Week 4 (Oct 7) | Continuous Random Variables | Lydia | Ch 7
-Week 5 (Oct 14) | Python for simulation | Abel
-Week 6 (Oct 21) | Random Number Generation | Lydia | ch 13
-Week 7 (Oct 28) | Lab on random number generation - Quiz 1 | Abel
-Week 8 (Nov 4) | Event Driven Simulation | Lydia | ch 14
-Week 9 (Nov 11) | Lab on event driven simulation | Abel
-Week 10 (Nov 18) | The Poisson Process | Lydia | ch 12
-Week 11 (Nov 25) | Lab on queueing systems | Abel | 
-Week 12 (Dec 2) |  Finite state Queueing Systems Scheduling| Lydia| ch 27
-Week 13 (Dec 9) | Lab with project - Quize 2 | Abel
-Week 14 (Dec 16) | Course review & presentations | Lydia
+Week 1 (Sep 17) | Introduction and Common Discrete Random Variables | Lydia | ch 3
+Week 2 (Sep 24 | Expectation, Variance, and Higher Moments | Lydia| ch 4/5
+Week 3 (Oct 1) | Lab on derivation | Abel
+Week 4 (Oct 8) | Continuous Random Variables | Lydia | Ch 7
+Week 5 (Oct 15) | Python for simulation | Abel
+Week 6 (Oct 22) | Random Number Generation | Lydia | ch 13
+Week 7 (Oct 29) | Lab on random number generation - Quiz 1 | Abel
+Week 8 (Nov 5) | Event Driven Simulation | Lydia | ch 14
+Week 9 (Nov 12) | Lab on event driven simulation | Abel
+Week 10 (Nov 19) | The Poisson Process | Lydia | ch 12
+Week 11 (Nov 26) | Lab on queueing systems | Abel | 
+Week 12 (Dec 3) |  Finite state Queueing Systems Scheduling| Lydia| ch 27
+Week 13 (Dec 10) | Lab with project - Quize 2 | Abel
+Week 14 (Dec 17) | Course review & presentations | Lydia
