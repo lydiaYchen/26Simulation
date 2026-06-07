@@ -43,8 +43,8 @@ The detailed description of the project will be published after week 4 here and 
 
 This accounts for 70 % of the final grade.
 
-### Quizs 
-There will be two in-class quizzs, 30 minutes long. Each of this will account for 20 % of your final grade.
+### Quizes 
+There will be two in-class quizzs, 30 minutes long. Each of this will account for 30 % of your final grade.
 
 
 ##  7. <a name='Detailedschedule'></a>Detailed schedule
