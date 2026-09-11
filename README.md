@@ -1,6 +1,6 @@
 # Simulation 26 Fall
 
-This is the course repository for the simulation course of the Data Science Bachelor Program at the University of Neuchâtel.
+This is the course repository for the "Modeling and simulation of systems" course of the Data Science bachelor program at the University of Neuchâtel.
 
 ##  1. Course description
 
@@ -40,14 +40,14 @@ They are important building blocks for your course project. The labs will not be
 ### Project
 The project is about building a queuing simulator to predict and analyze key performance metrics, e.g., average waiting time and average response time.
 
-The detailed project description will be published here after week 4, and the project is due December 17.
+The detailed project description will be available on Moodle during the week of lecture 4, and the project is due on December 16 (end of day).
 Students must both submit a report and give a presentation for their project.
 
 This accounts for 70 % of the final grade.
 
 ### Quizzes
-There will be two in-class quizzes, 30 minutes long.
-Each of these will account for 30 % of your final grade.
+There will be two in-class quizzes of 45 minutes.
+Each will account for 15 % of your final grade.
 
 ##  6. Detailed schedule
 
